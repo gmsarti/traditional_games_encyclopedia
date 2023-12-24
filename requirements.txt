@@ -1,0 +1,6 @@
+rasa
+wikipedia
+requests
+spacy
+jinja2
+pytest
